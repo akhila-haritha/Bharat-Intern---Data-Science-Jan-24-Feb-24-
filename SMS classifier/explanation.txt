@@ -1,1 +1,2 @@
-
+This is the first task of the internship.
+The task was to classify SMS as spam or not spam. The dataset was collected from Kaggle and Naive's Bayes classifier was used to perform the task.
